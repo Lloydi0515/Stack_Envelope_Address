@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+.envelope-border {
+    border: solid;
+    width: 800px;
+    height: 400px;
+    position: relative;
+    margin: 50px;
+    margin-left: 270px;
+}
+.envelope-1 {
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+.envelope-2 {
+    position: relative;
+    margin-left: 150px;
+    padding-left: 180px;
+    padding-top: 120px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
